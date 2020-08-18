@@ -1,1 +1,3 @@
-I am config-dev 111111
+config:
+    info:123123123
+
